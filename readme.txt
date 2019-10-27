@@ -1,7 +1,7 @@
 === BabbleConnect ===
 
 Contributors: BabbleConnect
-Tags: BabbleConnect, chat text messaging, chat sms, chat sms integration, chat sms connector, small business chat, small biz chat, chat text message connector, chat text messaging connector, chat text message integration, chat text messaging integration, live chat, chat, communication, sales, marketing, announcements, talk to customers, customer feedback, feedback, chat plugin, free, free chat, chatra, livechat, popup, exit intent, growth, subscribers, subscription, email form,  analytics,  widget, lightbox, inbound marketing, welcome mat, landing pagelivechat, olark, boldchat, online chat, online support, in-app chat, instant message, helpdesk, php live chat, support software, website chat, WordPress chat, WordPress live chat, WordPress live chat plugin, chat widget
+Tags: chat, chat text message, chat sms, small business chat, live chat, chat plugin, chat text messaging connector, chat text message integration, chat text messaging integration,  communication, sales, marketing, announcements, talk to customers, customer feedback, feedback, free chat, livechat, popup, exit intent, growth, subscribers, subscription, email form,  analytics,  widget, lightbox, inbound marketing, welcome mat, landing pagelivechat, olark, boldchat, online chat, online support, in-app chat, instant message, helpdesk, php live chat, support software, website chat, WordPress chat, WordPress live chat, WordPress live chat plugin, chat widget, chat sms integration, chat sms connector, chat text message connector, chat text messaging integration, small biz chat
 Requires at least: 4.9
 Requires PHP: 5.6
 Stable tag: 1.0.0
@@ -10,7 +10,7 @@ Tested up to: 5.2.2
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-BabbleConnect magically places a real-time widget on your site, connecting you to your site visiors
+BabbleConnect magically places a real-time widget on your site, connecting you to your site visitors
 via text message.
 
 == Description ==
