@@ -10,7 +10,7 @@ Tested up to: 5.2.2
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-BabbleConnect magically places a real-time widget on your site, connecting you to your site visiors
+BabbleConnect magically places a real-time widget on your site, connecting you to your site visitors
 via text message.
 
 == Description ==
